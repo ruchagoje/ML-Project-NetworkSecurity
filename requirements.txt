@@ -8,4 +8,6 @@ pymongo[srv]==3.6
 scikit-learn
 mlflow
 pyaml
-# -e .
+dagshub
+fastapi
+uvicorn

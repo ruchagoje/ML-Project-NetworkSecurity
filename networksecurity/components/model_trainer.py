@@ -26,6 +26,9 @@ from sklearn.ensemble import (
     RandomForestClassifier,
 )
 
+import dagshub
+dagshub.init(repo_owner='ruchagoje', repo_name='ML-Project-NetworkSecurity', mlflow=True)
+
 
 class ModelTrainer:
     def __init__(self,model_trainer_config:ModelTrainerConfig,data_transformation_artifact:DataTransformationArtifact):
