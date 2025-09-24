@@ -1,0 +1,10 @@
+artifact_location: file:///Users/ruchagoje/Documents/NetworkSecurity/mlruns/493700264622747901/models/m-d6bdcfe3efdc47e8891a7469313401de/artifacts
+creation_timestamp: 1758702333136
+experiment_id: '493700264622747901'
+last_updated_timestamp: 1758702335124
+model_id: m-d6bdcfe3efdc47e8891a7469313401de
+model_type: null
+name: model
+source_run_id: 4dbd032c802c4b72bab8cdfd820bb141
+status: 2
+status_message: null
